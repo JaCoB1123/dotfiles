@@ -1,0 +1,8 @@
+#asciinema
+#lolcat
+#pandas
+
+#Useful xontribs for xonsh:
+#xontrib-pipeliner
+#xontrib-output-search
+#xontrib-prompt-bar
