@@ -1,0 +1,8 @@
+[user]
+	name = Jan Bader
+	email = c.github@jan.javil.eu
+[alias]
+	s = status -sb
+	c = commit -m
+	df = diff -w
+	dfs = diff -w --staged

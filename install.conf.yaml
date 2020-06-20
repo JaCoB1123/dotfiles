@@ -3,3 +3,4 @@
                 relink: true
 - link:
         ~/.xonshrc: home/.xonshrc
+        ~/.gitconfig: home/.gitconfig
