@@ -4,3 +4,4 @@
 - link:
         ~/.xonshrc: home/.xonshrc
         ~/.gitconfig: home/.gitconfig
+        ~/.i3/config: home/i3/config
