@@ -11,3 +11,4 @@
 	dfs = diff -w --staged
 	pr = pull --rebase
 	s = status -sb
+	l = log --oneline --graph --decorate
